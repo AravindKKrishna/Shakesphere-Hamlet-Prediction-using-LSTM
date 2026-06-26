@@ -258,7 +258,7 @@ Computer Science Engineer | AI & Data Science Enthusiast
 
 GitHub: https://github.com/AravindKKrishna
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/aravind-k-krishna-745433272/
 
 ---
 
